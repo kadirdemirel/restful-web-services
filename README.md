@@ -9,6 +9,7 @@
 ## Technologies, Tools And Techniques Used
 - Java
 - Spring Boot
+- Spring Security
 - Maven
 - Exception Handling
 - Validations
@@ -24,6 +25,7 @@
 ## Blog Posts
 ✍️ <a href="https://medium.com/@kadirdemirell/web-servis-nedir-a5d5966e685f"  style="max-width:100%;">Web Servis Nedir?</a> <br>
 ✍️ <a href="https://medium.com/@kadirdemirell/web-servis-anahtar-terminolojisi-1efe5155a40a"  style="max-width:100%;">Web Servis — Anahtar Terminolojisi</a> <br> 
+✍️ <a href="https://medium.com/@kadirdemirell/spring-rest-ve-hal-browser-88b2bedc5e25"  style="max-width:100%;">Spring REST ve HAL Browser</a> <br> 
 
 
 ## Contributing
